@@ -41,6 +41,7 @@ immo-ML-project/
 │   ├── data/
 │   │   ├── __init__.py
 │   │   ├── load_data.py        # functions to load CSVs
+│   │   ├── main.py
 │   │   └── preprocess_data.py  # cleaning BEFORE train-test split
 │   │
 │   ├── features/
