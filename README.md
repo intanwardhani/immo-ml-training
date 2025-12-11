@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white) ![](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white) ![](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
+![](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white) ![](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white) ![](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white) [![Version & Sync Models](https://github.com/intanwardhani/immo-ml-training/actions/workflows/sync_models.yml/badge.svg?branch=main)](https://github.com/intanwardhani/immo-ml-training/actions/workflows/sync_models.yml)
 
 # About Me
 Given my intensive background in cognitive psychology, I like to use human's behavioural learning and modelling as analogy for me to learn Machine Learning. I like to think that Machine Learning is the mathematical model of human's behaviour imitated by machines. Or maybe, more aptly phrased: mathematical models of human's behaviour created by humans such that machines can imitate us :wink:
